@@ -1,0 +1,16 @@
+.custom-btn{
+    width: 120px;
+    background: lightgreen;
+    color: #000;
+    border: 1px solid #4a4a4a;
+    border-radius: 4px;
+    padding: 4px;
+    font-weight: 700;
+    font-family: lato;
+    cursor: pointer;
+    margin-top: 12px;
+}
+.remove-btn{
+    background: red;
+    color: #FFF;
+}
